@@ -22,7 +22,7 @@ The board with the best move which we can reach from the initial input board.
 ## Successor state ##
 The very next set of boards that can be achieved from the initial input board.
 
-## Utility/evaluation function ## 
+## Utility/Evaluation function ## 
 (Number of AI pieces - Number of opponent pieces) * 500 + Number of AI pieces * 50.
 
 ## Approach and design decisions ##
